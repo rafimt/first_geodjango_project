@@ -1,5 +1,6 @@
 # tips about installing GDAL
-
+course link
+https://www.youtube.com/watch?v=QiLO3MQxvds&list=PL7amXK4vKqATa_KrfQ3_tEF_ywAgAqWeJ
 - python version 3.11
 - GDAL version 3.8.4
 
